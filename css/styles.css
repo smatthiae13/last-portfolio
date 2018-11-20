@@ -60,7 +60,7 @@
   }
   
   .experience-header {
-    background: url('images/mountain.jpg') no-repeat top center ;
+    background: url('./images/mountain.jpg') no-repeat top center ;
   }
   
   .contact-header {
@@ -197,10 +197,10 @@
     background-image: url(images/twitter.svg);
   }*/
   a.linkedin {
-    background-image: url(images/linkedin.svg);
+    background-image: url('images/linkedin.svg');
   }
   a.github {
-    background-image: url(images/github.svg);
+    background-image: url('images/github.svg');
   }
   a.social:hover {
     opacity: 1;
